@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "start",
+            "problemMatcher": [],
+            "label": "start"
+        }
+    ]
+}
